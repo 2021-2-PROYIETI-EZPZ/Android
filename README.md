@@ -7,7 +7,7 @@ In the **Android** repository you will find in detail all the source code relate
 ## Project Repositories
 
 * [Project Main Repository](https://github.com/2021-2-PROYIETI-EZPZ/Project).
-* [Project Android](https://github.com/2021-2-PROYIETI-EZPZ/Android).
+* [Project Back-End](https://github.com/2021-2-PROYIETI-EZPZ/Back-End).
 * [Project Front-End](https://github.com/2021-2-PROYIETI-EZPZ/Front-End).
 
 ## Link to the Continuous Integration System (Circle CI)
