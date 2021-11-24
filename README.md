@@ -2,7 +2,7 @@
 
 ## Description
 
-In the **Android** repository you will find in detail all the source code related solely and exclusively to the Back of the project. In this repository you will find all the application code that allows the correct operation of all the features implemented in the Front-End of the project, such as persistence when making the respective connection with the databases, the handling of the interfaces , the logins either of the passenger or driver and the real time of the application, all implemented in the Android in order to have full operation in the Front-End of the project.
+In the **Android** repository you will find in detail all the source code related solely and exclusively to the Back of the project. In this repository you will find all the application code that allows the correct operation of all the features implemented in Android, such as persistence when making the respective connection with the databases, the handling of the interfaces, the logins of the clients and the real time of the application, all implemented in the Android Studio in order to have full operation in the Android application.
 
 ## Project Repositories
 
