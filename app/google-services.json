@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327450399221",
+    "project_id": "ez-browser",
+    "storage_bucket": "ez-browser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327450399221:android:163e14d50ff8b2e8a590bc",
+        "android_client_info": {
+          "package_name": "com.example.ezbrowser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327450399221-0cakpktho9ueinjmocb26vnp71f8a26q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9h3_ba0S1a3Msk3w8aJYK9buDQJL_pyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327450399221-0cakpktho9ueinjmocb26vnp71f8a26q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
