@@ -34,4 +34,4 @@ In the **Android** repository you will find in detail all the source code relate
 ## License and Copyrights
 **©** Alejandro Toro Daza, Rubian Camilo Saenz Rodriguez, Carlos Andres Amorocho Amorocho, Andres Jose Gutierrez Marin, Jonathan Fabian Paez Torres, Jairo Eduardo Pulido Rincon, Systems Engineering students of the [Colombian School of Engineering Julio Garavito](https://www.escuelaing.edu.co/es/).
       
-Licensed under the [GNU General Public License](https://github.com/2021-2-PROYIETI-EZPZ/Android/blob/main/LICENSE).
+Licensed under the [GNU General Public License](https://github.com/2021-2-PROYIETI-EZPZ/Android/blob/Login_RegistroUI/AT/LICENSE).
