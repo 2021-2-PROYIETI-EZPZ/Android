@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264511510215",
+    "project_id": "ezpzdb",
+    "storage_bucket": "ezpzdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264511510215:android:be7f0daf2aa32a18db50e2",
+        "android_client_info": {
+          "package_name": "com.ecommerce.dudeecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264511510215-p6d36qbm2k8ft9ktio8h4rie579m26j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNZl43AqHnHRnydCkJPZUIUwOpYnWpjkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264511510215-p6d36qbm2k8ft9ktio8h4rie579m26j5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
