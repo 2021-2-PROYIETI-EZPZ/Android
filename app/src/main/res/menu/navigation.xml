@@ -11,10 +11,6 @@
         android:icon="@drawable/ic_nav_category"
         android:title="@string/title_nav_category" />
 
-    <item
-        android:id="@+id/nav_info"
-        android:icon="@drawable/ic_nav_info"
-        android:title="@string/title_nav_help" />
 
     <item
         android:id="@+id/nav_profile"

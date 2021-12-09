@@ -94,13 +94,16 @@ public class MainActivity extends AppCompatActivity {
                         //Muestra categorias
                         viewPager.setCurrentItem(1);
                         return true;
+                        /*
                     case R.id.nav_info:
                         //Muestra Ayuda
                         viewPager.setCurrentItem(2);
                         return true;
+
+                         */
                     case R.id.nav_profile:
                         //Muestra perfil
-                        viewPager.setCurrentItem(3);
+                        viewPager.setCurrentItem(2);
                         return true;
                 }
                 return false;
@@ -128,7 +131,7 @@ public class MainActivity extends AppCompatActivity {
                 } else if (viewPager.getCurrentItem() == 2) {
                     toolbar.setTitle(R.string.title_nav_help);
                 } else if (viewPager.getCurrentItem() == 3) {
-                    toolbar.setTitle(R.string.title_nav_profile);
+                    toolbar.setTitle(R.string.title_nav_category);
                 } else {
                     toolbar.setTitle(R.string.app_name);
                 }
@@ -144,7 +147,7 @@ public class MainActivity extends AppCompatActivity {
         try {
             dbhelper.createDataBase();
         } catch (IOException ioe) {
-            throw new Error("Error al cargar la base de datos");
+            throw new Error("Unable to create database");
         }
 
         try {
@@ -180,7 +183,7 @@ public class MainActivity extends AppCompatActivity {
                 case 1:
                     return new FragmentCategory();
                 case 2:
-                    return new FragmentHelp();
+                    return new FragmentProfile();
                 case 3:
                     return new FragmentProfile();
             }

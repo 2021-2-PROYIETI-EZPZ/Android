@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../../../layout/custom_preview.xml" value="0.10520833333333333" />
         <entry key="app/src/main/res/layout/activity_cart.xml" value="0.18" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.16" />
         <entry key="app/src/main/res/layout/activity_notification_detail.xml" value="0.1" />
@@ -16,6 +17,8 @@
         <entry key="app/src/main/res/layout/item_bottom_sheet.xml" value="0.18" />
         <entry key="app/src/main/res/layout/item_cart.xml" value="0.22" />
         <entry key="app/src/main/res/layout/item_category.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/item_help.xml" value="0.14" />
+        <entry key="app/src/main/res/layout/item_history.xml" value="0.1" />
         <entry key="app/src/main/res/layout/item_product.xml" value="0.22" />
         <entry key="app/src/main/res/layout/spinner_dropdown_item.xml" value="0.1" />
         <entry key="app/src/main/res/layout/spinner_item.xml" value="0.1" />
